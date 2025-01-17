@@ -1,9 +1,8 @@
 # Invoice Extractor
-This Python script processes a PDF invoice and extracts specific details: 
+It uses the OCR tool [Tesseract](https://github.com/tesseract-ocr/tesseract) to recognize text from the PDF file. This Python script processes a PDF invoice and extracts specific details: 
 - **Supplier Name**
 - **Invoice Date**
 - **Total Amount**
-It uses the OCR tool [Tesseract](https://github.com/tesseract-ocr/tesseract) to recognize text from the PDF file.
 
 ## Usage
 1. Clone this repository or download the script.
