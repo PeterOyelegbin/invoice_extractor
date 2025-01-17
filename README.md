@@ -7,7 +7,7 @@ It uses the OCR tool [Tesseract](https://github.com/tesseract-ocr/tesseract) to 
 ## Usage
 1. Clone this repository or download the script.
 2. Install Tesseract OCR. Instructions are available on the [official GitHub page](https://github.com/tesseract-ocr/tesseract).
-3. App poppler binary from the project directory to your system environment variable
+3. Unzip and add poppler binary from the project directory to your system environment variable
     ```envfile
     C:\file-path\invoice_extractor\poppler-24.08.0\bin
     ```
